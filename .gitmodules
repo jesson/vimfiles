@@ -193,3 +193,9 @@
 [submodule "bundle/vim-slim"]
 	path = bundle/vim-slim
 	url = git://github.com/bbommarito/vim-slim.git
+[submodule "bundle/dbext"]
+	path = bundle/dbext
+	url = git://github.com/vim-scripts/dbext.vim.git
+[submodule "bundle/vim-ruby-refactoring"]
+	path = bundle/vim-ruby-refactoring
+	url = git://github.com/ecomba/vim-ruby-refactoring.git
