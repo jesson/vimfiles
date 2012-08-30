@@ -202,6 +202,3 @@
 [submodule "bundle/vim-powerline"]
 	path = bundle/vim-powerline
 	url = git://github.com/Lokaltog/vim-powerline.git
-[submodule "bundle/yaml-vim"]
-	path = bundle/yaml-vim
-	url = git://github.com/ingydotnet/yaml-vim.git
